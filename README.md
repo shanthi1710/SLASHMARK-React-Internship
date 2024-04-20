@@ -25,6 +25,3 @@ Build a full-stack e-commerce application using the MERN (MongoDB, Express.js, R
 
 ### Final Task: React Chat Application
 Develop an advanced real-time chat application using React. Implement features like user authentication, private messaging, group chats, and message history.
-
-## Getting Started
-Each project folder contains its own README with detailed instructions on how to set up and run the project locally. Make sure to follow the instructions carefully to get started with each project.
